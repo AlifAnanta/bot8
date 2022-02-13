@@ -1270,7 +1270,7 @@ var imgs = await Ramdani.prepareMessage('0@c.us', thumb, image, { thumbnail: thu
                         "firstImageId": 1,
                         "salePriceAmount1000": "1000",
                         "retailerId": `${Tanggal}\n${ucapanFakereply}`,
-                        "url": "https://www.blogger.com/profile/06721407306554175592"
+                        "url": "https://ramdaniofficial.blogspot.com/?m=1"
                     },
                     "businessOwnerJid": "6289512545999@s.whatsapp.net",
                 }
