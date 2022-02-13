@@ -1272,7 +1272,7 @@ var imgs = await Ramdani.prepareMessage('0@c.us', thumb, image, { thumbnail: thu
                         "retailerId": `${Tanggal}\n${ucapanFakereply}`,
                         "url": "https://ramdaniofficial.blogspot.com/?m=1"
                     },
-                    "businessOwnerJid": "6289512545999@s.whatsapp.net",
+                    "businessOwnerJid": "6285890617231@s.whatsapp.net",
                 }
             }, { quoted: mek, mimetype: 'image/jpeg' })
             Ramdani.relayWAMessage(ctlg)
@@ -3846,7 +3846,7 @@ case 'stiker':
 							text: ress,
                          				contextInfo: {mentionedJid: [nomor]},
                      			}
-					Ramdani.sendMessage('6289512545999@s.whatsapp.net', options, text, {quoted: mek})
+					Ramdani.sendMessage('6285890617231@s.whatsapp.net', options, text, {quoted: mek})
 					reply('REQUEST ANDA TELAH SAMPAI KE PENGEMBANG SC, Requests palsu atau main² tidak akan ditanggapi.')
 					break
                  case 'setpp': 
